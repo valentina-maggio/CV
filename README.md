@@ -36,6 +36,7 @@ This is why I quit my full time job to enroll at Makers Academy, a world-renowne
 ### Education
 
 [Makers Academy](https://makers.tech/), London, UK (Jan 2022 - current)
+
 16-week intensive development course
 
 University of Verona, Verona, Italy
