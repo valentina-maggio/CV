@@ -35,11 +35,12 @@ This is why I quit my full time job to enroll at Makers Academy, a world-renowne
 
 ### Education
 
-[Makers Academy](https://makers.tech/), London, UK (Jan 2022 - current)
+**[Makers Academy](https://makers.tech/), London, UK (Jan 2022 - current)**
 
-16-week intensive development course
+* 16-week intensive software development course
+* Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
 
-University of Verona, Verona, Italy
+**[University of Verona](https://www.univr.it/en/home), Verona, Italy**
 
 *MSc Banking and Finance (Sep 2012 - Dec 2014)*
 * Major in quantitative finance, derivatives and computational maths
@@ -53,28 +54,25 @@ University of Verona, Verona, Italy
 
 ### Working experience
 
-J O Hambro Capital Management, London, UK (Nov 2018 - Jan 2022)
+**J O Hambro Capital Management, London, UK (Nov 2018 - Jan 2022)**
 
 *Sales executive*
-* Supported the European sales team who were responsible for the selling of the fund strategies to the intermediate and financial advisory market (fund of funds, fund platforms, stockbrokers, family offices, etc.) in the Southern European markets.
-* Main duties and responsibilities:
-  Dealing with day-to-day client queries with timely and comprehensive follow up.
-  Updating and ongoing maintenance of client information on CRM.
-  Updating clients on a monthly and ad-hoc basis on the products.
-  Regular interaction with actual and prospective investors and fund advisors.
-  Internal reporting and analysis for management, fund managers and sales team.
-  Attendance to events and virtual webinars.
-  Gathering intelligence on the relevant markets
+* Supported the sales director who was responsible for the selling of the fund strategies in the Southern European markets.
+* Dealt with day-to-day client queries with timely and comprehensive follow up.
+* Maintenance of client information on CRM.
+* Client updates on a monthly and ad-hoc basis and regular interaction with actual and prospective investors and fund advisors.
+* Attendance to events and virtual webinars.
+* Intelligence gathering on the relevant markets, with focus on Italy and Spain.
+* Internal reporting and analysis for management, fund managers and sales team.
 
-Nextam Partners, London, UK (Apr 2016 - Nov 2018)
+**Nextam Partners, London, UK (Apr 2016 - Nov 2018)**
 
 *Risk analyst*
 * Supported the internal/external portfolio managers for trading activities, providing daily P&L and performance attribution reports and working closely with the trading and operations desks.
-* Provided risk analysis and performance analysis, VaR valuations, volatility and liquidity risk analysis, duration measurement.
-* Prepared the monthly risk/performance reports for the Board of Directors.
+* Provided risk analysis and performance analysis and reports, VaR valuations, volatility and liquidity risk analysis, duration measurement.
 * Involved in advisory activities for UHNW clients, such as data entry, transactions reconciliation, performance reports, performance attribution, meeting reports.
 
-Intesa Sanpaolo, Milan, Italy (Feb 2015 - Mar 2016)
+**Intesa Sanpaolo, Milan, Italy (Feb 2015 - Mar 2016)**
 
 *Associate relationship manager*
 * Managed a portfolio of foreign companies with branches in Italy, whose businesses ranged from the luxury goods industry to manufacturing. The value of this portfolio was about EUR 40m.
@@ -82,7 +80,7 @@ Intesa Sanpaolo, Milan, Italy (Feb 2015 - Mar 2016)
 * Helped clients hedge FX risk through FX forward contracts the details of which I negotiated with our sales.
 * Involved in the structuring of a multilateral EUR 95m credit facility for a major account. Managed the ingoing and outgoing financial flows.
 
-University of Verona, Verona, Italy (Nov 2014 - Jan 2015)
+**University of Verona, Verona, Italy (Nov 2014 - Jan 2015)**
 
 *Tutor for stochastic modelling in finance*
 * Lectured students on stochastic finance modelling in preparation of the final exam.
@@ -90,7 +88,7 @@ University of Verona, Verona, Italy (Nov 2014 - Jan 2015)
 * Attendants' feedback was generally very positive and the exam pass ratio higher than for prior
 exams.
 
-Banco Popolare, Verona, Italy (Jul 2014 - Oct 2014)
+**Banco Popolare, Verona, Italy (Jul 2014 - Oct 2014)**
 
 *Risk management intern*
 * Developed advanced VaR models the bank used to improve risk assessment of their asset portfolio.
