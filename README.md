@@ -1,38 +1,42 @@
 # Valentina Maggio
 
-[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Experience](#working-experience) | [Hobbies](#hobbies-and-interests) | [Contact Details](#contact-details)
+[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Experience](#working-experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
 After 8 years working in finance, I decided to challenge myself and move to an industry where I can really make an impact on people's lives. 
 Coding is something I’ve always enjoyed since the university, but I’ve never had a chance to really work with it on a daily basis. As I realised that technology is everywhere in our daily life I thought I wanted to be part of this world. And it's not just about being able to create something that is useful and can make our life easier. It's also about being challenged and learn new things each day. 
 
-This is why I quit my full time job to enroll at Makers Academy, a world-renowned 16-week developer course, and become a software developer.
+This is why I quit my full time job to enrol at Makers Academy, a world-renowned 16-week developer course, and become a software developer.
 
 ---
 
 ### Soft skills
 
-**Excellent communicator and listener**
-
-My experience in client-facing roles, where I was frequently involved in presentations, client speeches and events, helped me develop good communication skills. Moreover, dealing with customers and other stakeholders on a daily basis improved my ability to understand and identify other people’s needs and expectations.
-
-**Adaptable and team player**
-
-Having worked in a team with multiple individuals, I sharpened my collaboration skills and my ability to be adaptable to different ways of working or thinking. Being also part of a multi-cultural team made me more open-minded and enhanced my ability to see things from different perspectives. Furthermore, my knowledge of different foreign languages has helped me build better connections with people around me.
-
-**Fast learner and curious**
-
-While working in finance I held different positions, and this meant facing every time new processes and new tasks to learn. My curiosity and ability to learn new things in a short period of time made me successful in all my past roles. In my latest role for example, as I was especially proactive and quick in understanding new information and applying what I learnt, my manager decided to confirm my position in the company after just three months instead of waiting for the end of the 6-month probation period.
-
-**Problem solver and attention to detail**
-
-My background in mathematics and statistical subjects and my experience in analyst roles enhanced my ability to identify problems, analyse them and implement solutions. This was a skill particularly important in my risk analyst role, but also in my sales role as I was constantly involved in building new solutions for our clients based on their requests and the jurisdictions where they were based. I’ve also proved to be a detail-oriented person, when while dealing with client investments I was in charge of keeping track of the monthly transactions and carrying out all the reconciliations between different accounts.
+* Excellent communicator with stakeholder management
+* Adaptable and team player
+* Fast learner and curious
+* Problem solver and attention to detail
 
 ---
 
 ### Tech skills
 
-* Ruby
+* Ruby, Rspec, Sinatra, Capybara
+* JavaScript, Jest, Node.js, Express
+* HTML, CSS, Handlebars
+* SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose,
 * Git, GitHub
+* Travis CI
+
+---
+
+### Projects
+
+| Project | Description | Technologies |
+| --- | ----------- | ----------- |
+| [Quackbook]() | A funny clone of Facebook | JavaScript, Express, Node.js, Handlebars, MondoDB, Mongoose, Jest, Cypress, HTML, CSS |
+| [MakersBnB]() | A clone of AirBnb | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord |
+| [News Summary]() | A news single page web app | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres |
+| [Chitter](https://github.com/valentina-maggio/chitter-challenge) | A lightweight clone of Twitter | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres |
 
 ---
 
@@ -64,7 +68,7 @@ My background in mathematics and statistical subjects and my experience in analy
 
 ---
 
-### Working experience
+### Work experience
 
 **J O Hambro Capital Management, London, UK (Nov 2018 - Jan 2022)**
 
@@ -109,18 +113,18 @@ exams.
 
 ---
 
-### Hobbies and interests
+### Interests
 
 * Cooking
 * Board games and puzzles
 * Reading
 * Running, HIIT and pilates
-* Travelling and exploring
+* Travelling
 
 ---
 
 ### Contact details
 
 * GitHub: [valentina-maggio](https://github.com/valentina-maggio)
-* Codewars: https://www.codewars.com/users/valentina_is_coding
 * Linkedin: https://www.linkedin.com/in/valentina-maggio/
+* Codewars: https://www.codewars.com/users/valentina_is_coding
