@@ -33,19 +33,17 @@ This is why I quit my full time job to enrol at Makers Academy, a world-renowned
 
 | Project | Description | Technologies |
 | --- | ----------- | ----------- |
-| [Quackbook]() | A funny clone of Facebook | JavaScript, Express, Node.js, Handlebars, MondoDB, Mongoose, Jest, Cypress, HTML, CSS |
-| [MakersBnB]() | A clone of AirBnb | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord |
-| [News Summary]() | A news single page web app | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres |
+| [Quackbook](https://github.com/valentina-maggio/quackbook-team-quack-overflow) | A funny clone of Facebook | JavaScript, Express, Node.js, Handlebars, MondoDB, Mongoose, Jest, Cypress, HTML, CSS |
+| [MakersBnB](https://github.com/valentina-maggio/MakersBnB) | A clone of AirBnb | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord |
+| [News Summary](https://github.com/valentina-maggio/news-summary) | A news single page web app | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres |
 | [Chitter](https://github.com/valentina-maggio/chitter-challenge) | A lightweight clone of Twitter | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres |
 
 ---
 
-### Languages
+### Additional skills
 
-* Italian (native)
-* English (fluent)
-* Spanish (fluent)
-* French (basic)
+* Methodologies: Agile, XP, TDD
+* Languages: Italian (native), English (fluent), Spanish (fluent), French (basic)
 
 ---
 
@@ -55,12 +53,15 @@ This is why I quit my full time job to enrol at Makers Academy, a world-renowned
 
 * 16-week intensive software development course
 * Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+* Technologies covered: please see [Tech Skills](#tech-skills)
 
 **[University of Verona](https://www.univr.it/en/home), Verona, Italy**
 
 *MSc Banking and Finance (Sep 2012 - Dec 2014)*
 * Major in quantitative finance, derivatives and computational maths
 * 1st class honours
+
+**[University of Verona](https://www.univr.it/en/home), Verona, Italy**
 
 *BSc Business Administration (Sep 2008 - Apr 2012)*
 * Major in business administration, economics and statistics
@@ -70,7 +71,7 @@ This is why I quit my full time job to enrol at Makers Academy, a world-renowned
 
 ### Work experience
 
-**J O Hambro Capital Management, London, UK (Nov 2018 - Jan 2022)**
+**[J O Hambro Capital Management](https://www.johcm.com/uk/home), London, UK (Nov 2018 - Jan 2022)**
 
 *Sales executive*
 * Supported the sales director who was responsible for the selling of the fund strategies in the Southern European markets.
@@ -81,14 +82,14 @@ This is why I quit my full time job to enrol at Makers Academy, a world-renowned
 * Intelligence gathering on the relevant markets, with focus on Italy and Spain.
 * Internal reporting and analysis for management, fund managers and sales team.
 
-**Nextam Partners, London, UK (Apr 2016 - Nov 2018)**
+**[Nextam Partners](https://sim.nextampartners.com/en/), London, UK (Apr 2016 - Nov 2018)**
 
 *Risk analyst*
 * Supported the internal/external portfolio managers for trading activities, providing daily P&L and performance attribution reports and working closely with the trading and operations desks.
 * Provided risk analysis and performance analysis and reports, VaR valuations, volatility and liquidity risk analysis, duration measurement.
 * Involved in advisory activities for UHNW clients, such as data entry, transactions reconciliation, performance reports, performance attribution, meeting reports.
 
-**Intesa Sanpaolo, Milan, Italy (Feb 2015 - Mar 2016)**
+**[Intesa Sanpaolo](https://group.intesasanpaolo.com/en/), Milan, Italy (Feb 2015 - Mar 2016)**
 
 *Associate relationship manager*
 * Managed a portfolio of foreign companies with branches in Italy, whose businesses ranged from the luxury goods industry to manufacturing. The value of this portfolio was about EUR 40m.
@@ -96,7 +97,7 @@ This is why I quit my full time job to enrol at Makers Academy, a world-renowned
 * Helped clients hedge FX risk through FX forward contracts the details of which I negotiated with our sales.
 * Involved in the structuring of a multilateral EUR 95m credit facility for a major account. Managed the ingoing and outgoing financial flows.
 
-**University of Verona, Verona, Italy (Nov 2014 - Jan 2015)**
+**[University of Verona](https://www.univr.it/en/home), Verona, Italy (Nov 2014 - Jan 2015)**
 
 *Tutor for stochastic modelling in finance*
 * Lectured students on stochastic finance modelling in preparation of the final exam.
@@ -104,7 +105,7 @@ This is why I quit my full time job to enrol at Makers Academy, a world-renowned
 * Attendants' feedback was generally very positive and the exam pass ratio higher than for prior
 exams.
 
-**Banco Popolare, Verona, Italy (Jul 2014 - Oct 2014)**
+**[Banco Popolare](https://gruppo.bancobpm.it/en/), Verona, Italy (Jul 2014 - Oct 2014)**
 
 *Risk management intern*
 * Developed advanced VaR models the bank used to improve risk assessment of their asset portfolio.
@@ -125,6 +126,6 @@ exams.
 
 ### Contact details
 
-* GitHub: [valentina-maggio](https://github.com/valentina-maggio)
 * Linkedin: https://www.linkedin.com/in/valentina-maggio/
+* GitHub: [valentina-maggio](https://github.com/valentina-maggio)
 * Codewars: https://www.codewars.com/users/valentina_is_coding
