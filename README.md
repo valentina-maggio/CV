@@ -3,7 +3,7 @@
 [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Experience](#working-experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
 I am a dedicated and enthusiastic full stack developer, about to graduate from [Makers Academy](https://makers.tech/). After 8 years working in finance, I decided to challenge myself and move to an industry where I can really make an impact on people's lives.
-I am motivated to join a company where I can share my passion and my skills, while consolidating and extend my programming knowledge.
+I am motivated to join a company where I can share my passion and my skills, while consolidating and extending my programming knowledge.
 
 ---
 
@@ -81,7 +81,7 @@ _Sales executive_
 - Dealt with day-to-day client queries with timely and comprehensive follow up.
 - Maintenance of client information on CRM.
 - Client updates on a monthly and ad-hoc basis and regular interaction with actual and prospective investors and fund advisors.
-- Attendance to events and virtual webinars.
+- Attending and presenting at events and virtual webinars.
 - Intelligence gathering on the relevant markets, with focus on Italy and Spain.
 - Internal reporting and analysis for management, fund managers and sales team.
 
