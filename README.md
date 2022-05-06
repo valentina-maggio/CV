@@ -19,7 +19,7 @@ I am motivated to join a company where I can share my passion and my skills, whi
 ### 💻 Tech skills
 
 - Ruby, Rspec, Sinatra, Capybara
-- JavaScript, Jest, Node.js, Express
+- JavaScript, Jest, Node.js, Express, React
 - HTML, CSS, Handlebars
 - SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose,
 - Command Line, Git, GitHub
