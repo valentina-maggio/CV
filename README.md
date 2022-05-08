@@ -7,7 +7,7 @@ I am motivated to join a company where I can share my passion and my skills, whi
 
 ---
 
-### 💡 Soft skills
+### Soft skills
 
 - Excellent communicator with stakeholder management
 - Adaptable and team player
