@@ -1,13 +1,13 @@
 # Valentina Maggio
 
-[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Experience](#working-experience) | [Interests](#interests) | [Contact Details](#contact-details)
+[Soft Skills](#-soft-skills) | [Tech Skills](#tech-skills) | [Languages](#languages) | [Education](#education) | [Experience](#working-experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
 I am a dedicated and enthusiastic full stack developer, about to graduate from [Makers Academy](https://makers.tech/). After 8 years working in finance, I decided to challenge myself and move to an industry where I can really make an impact on people's lives.
 I am motivated to join a company where I can share my passion and my skills, while consolidating and extending my programming knowledge.
 
 ---
 
-### Soft skills
+### 💡 Soft skills
 
 - Excellent communicator with stakeholder management
 - Adaptable and team player
