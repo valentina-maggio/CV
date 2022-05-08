@@ -130,7 +130,7 @@ _Risk management intern_
 
 ---
 
-### ☎️ Contact details
+### 📱 Contact details
 
 - Linkedin: https://www.linkedin.com/in/valentina-maggio/
 - GitHub: [valentina-maggio](https://github.com/valentina-maggio)
