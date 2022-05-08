@@ -21,7 +21,7 @@ I am motivated to join a company where I can share my passion and my skills, whi
 - Ruby, Rspec, Sinatra, Capybara
 - JavaScript, Jest, Node.js, Express, React
 - HTML, CSS, Handlebars
-- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose,
+- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
 - Command Line, Git, GitHub
 - Travis CI
 
@@ -49,25 +49,25 @@ I am motivated to join a company where I can share my passion and my skills, whi
 
 **[Makers Academy](https://makers.tech/), London, UK (Jan 2022 - current)**
 
-- 16-week intensive software development course
-- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+- 16-week intensive software development course.
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way.
 - Built 10+ web applications primarily in Ruby and Javascript, with emphasis placed on self-led learning.
-- Technologies covered: please see [Tech Skills](#tech-skills)
-- Volunteered to mentor two junior students
+- Technologies covered: please see [Tech Skills](#Tech Skills).
+- Volunteered to mentor two junior students.
 
 **[University of Verona](https://www.univr.it/en/home), Verona, Italy**
 
 _MSc Banking and Finance (Sep 2012 - Dec 2014)_
 
-- Major in quantitative finance, derivatives and computational maths
-- 1st class honours
+- Major in quantitative finance, derivatives and computational maths.
+- 1st class honours.
 
 **[University of Verona](https://www.univr.it/en/home), Verona, Italy**
 
 _BSc Business Administration (Sep 2008 - Apr 2012)_
 
-- Major in business administration, economics and statistics
-- 2:1
+- Major in business administration, economics and statistics.
+- 2:1.
 
 ---
 
