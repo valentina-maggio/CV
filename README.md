@@ -2,7 +2,7 @@
 
 [Soft Skills](#-soft-skills) | [Tech Skills](#-tech-skills) | [Additional Skills](#-additional-skills) | [Education](#-education) | [Experience](#-work-experience) | [Interests](#-interests) | [Contact Details](#-contact-details)
 
-I am a dedicated and enthusiastic full stack developer, about to graduate from [Makers Academy](https://makers.tech/). After 8 years working in finance, I decided to challenge myself and move to an industry where I can really make an impact on people's lives.
+I am a dedicated and enthusiastic full stack developer, who has just graduated from [Makers Academy](https://makers.tech/). After 8 years working in finance, I decided to challenge myself and move to an industry where I can really make an impact on people's lives.
 I am motivated to join a company where I can share my passion and my skills, while consolidating and extending my programming knowledge.
 
 ---
@@ -29,12 +29,13 @@ I am motivated to join a company where I can share my passion and my skills, whi
 
 ### 👩🏻‍💻 Projects
 
-| Project                                                                        | Description                    | Technologies                                                                          |
-| ------------------------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------------------- |
-| [Quackbook](https://github.com/valentina-maggio/quackbook-team-quack-overflow) | A funny clone of Facebook      | JavaScript, Express, Node.js, Handlebars, MondoDB, Mongoose, Jest, Cypress, HTML, CSS |
-| [MakersBnB](https://github.com/valentina-maggio/MakersBnB)                     | A clone of AirBnb              | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord                     |
-| [News Summary](https://github.com/valentina-maggio/news-summary)               | A news single page web app     | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres                              |
-| [Chitter](https://github.com/valentina-maggio/chitter-challenge)               | A lightweight clone of Twitter | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres                              |
+| Project                                                                        | Description                                                 | Technologies                                                                                            |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Sportify](https://github.com/valentina-maggio/sportify)                       | A multi-page app where you can manage your workout schedule | MongoDB, Express, React, Node.js, JavaScript, Mongoose, Nodemon, Jest, React Testing Library, HTML, CSS |
+| [Quackbook](https://github.com/valentina-maggio/quackbook-team-quack-overflow) | A funny clone of Facebook                                   | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, Jest, Cypress, HTML, CSS                   |
+| [MakersBnB](https://github.com/valentina-maggio/MakersBnB)                     | A clone of AirBnb                                           | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord                                       |
+| [News Summary](https://github.com/valentina-maggio/news-summary)               | A news single page web app                                  | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres                                                |
+| [Chitter](https://github.com/valentina-maggio/chitter-challenge)               | A lightweight clone of Twitter                              | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, SQL, Postgres                                                |
 
 ---
 
