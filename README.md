@@ -48,7 +48,7 @@ I am motivated to join a company where I can share my passion and my skills, whi
 
 ### 📚 Education
 
-**[Makers Academy](https://makers.tech/), London, UK (Jan 2022 - current)**
+**[Makers Academy](https://makers.tech/), London, UK (Jan 2022 - May 2022)**
 
 - 16-week intensive software development course.
 - Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way.
