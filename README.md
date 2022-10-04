@@ -2,7 +2,7 @@
 
 [Soft Skills](#-soft-skills) | [Tech Skills](#-tech-skills) | [Additional Skills](#-additional-skills) | [Education](#-education) | [Experience](#-work-experience) | [Interests](#-interests) | [Contact Details](#-contact-details)
 
-I'm a career switcher with 8 years of experience working in financial services. I trained as a full-stack software developer at [Makers Academy](https://makers.tech/)and I’m currently working in my first Software Developer role. I'm highly motivated and driven by challenges. I like to contribute by bringing a positive attitude and curiosity.
+I'm a career switcher with 8 years of experience working in financial services. I trained as a full-stack software developer at [Makers Academy](https://makers.tech/) and I’m currently working in my first Software Developer role. I'm highly motivated and driven by challenges. I like to contribute by bringing a positive attitude and curiosity.
 
 ---
 
@@ -23,7 +23,7 @@ I'm a career switcher with 8 years of experience working in financial services. 
 - HTML, CSS, Handlebars
 - SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
 - Command Line, Git, GitHub
-- Travis CI
+- Travis CI, Jenkins
 
 ---
 
