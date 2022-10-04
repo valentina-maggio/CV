@@ -2,8 +2,7 @@
 
 [Soft Skills](#-soft-skills) | [Tech Skills](#-tech-skills) | [Additional Skills](#-additional-skills) | [Education](#-education) | [Experience](#-work-experience) | [Interests](#-interests) | [Contact Details](#-contact-details)
 
-I am a dedicated and enthusiastic full stack developer, who has just graduated from [Makers Academy](https://makers.tech/). After 8 years working in finance, I decided to challenge myself and move to an industry where I can really make an impact on people's lives.
-I am motivated to join a company where I can share my passion and my skills, while consolidating and extending my programming knowledge.
+I'm a career switcher with 8 years of experience working in financial services. I trained as a full-stack software developer at [Makers Academy](https://makers.tech/)and I’m currently working in my first Software Developer role. I'm highly motivated and driven by challenges. I like to contribute by bringing a positive attitude and curiosity.
 
 ---
 
@@ -18,6 +17,7 @@ I am motivated to join a company where I can share my passion and my skills, whi
 
 ### 💻 Tech skills
 
+- Python, Pytest, Java, JUnit, Spring Boot
 - Ruby, Rspec, Sinatra, Capybara
 - JavaScript, Jest, Node.js, Express, React
 - HTML, CSS, Handlebars
@@ -73,6 +73,13 @@ _BSc Business Administration (Sep 2008 - Apr 2012)_
 ---
 
 ### 📈 Work experience
+
+**[Deloitte Digital](https://www.deloittedigital.com/), London, UK (Jul 2022 - current)**
+
+_Software Developer_
+
+- Currently working as a backend developer on a major public sector digital delivery project built as a serverless microservice-based architecture.
+- Technologies used: Python, AWS Services, Java, Spring Boot, Docker, Kubernetes.
 
 **[J O Hambro Capital Management](https://www.johcm.com/uk/home), London, UK (Nov 2018 - Jan 2022)**
 
